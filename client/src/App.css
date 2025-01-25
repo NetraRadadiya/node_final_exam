@@ -1,0 +1,41 @@
+  .App{
+    background-color: rgb(188, 188, 234);
+    /* padding:  10% 0%; */
+    margin: auto;
+    padding-bottom: 6%;
+    width: 40%;
+  }
+
+  .btn{
+    border-radius: 30px;
+    padding: 8px 18px;
+    /* margin-right: 10px; */
+  
+  }
+
+  .to{
+    text-align: center;
+    padding-top: 30px;
+  }
+
+  .task{
+    padding: 2%  22%;
+    margin-left: 5%;
+    border-radius: 50px;
+    background-color: rgb(243, 240, 240);
+    color: lightgray;
+  }
+
+  .item{
+    text-align: center;
+  }
+
+  .bt1{
+    padding: 8px  39%;
+    margin-left: 5%;
+  }
+
+  .bt2{
+    padding: 8px  37%;
+    margin-left: 5%;
+  }
